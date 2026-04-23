@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
           dividerColor: const Color(0xFF2F2F2F),
           dividerTheme: const DividerThemeData(thickness: 10),
           textTheme: const TextTheme(
-            bodyText2: TextStyle(
+            bodyMedium: TextStyle(
               color: Colors.white,
               fontSize: 10,
               fontWeight: FontWeight.bold,
